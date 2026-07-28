@@ -91,8 +91,9 @@ A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichme
 ---
 
 ### 🔑 Password Strength Checker
+A Machine Learning-based password strength analyzer that evaluates passwords using entropy calculation, feature extraction, and Random Forest classification.
 
-A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
+**Tech:** Python • Scikit-learn • Machine Learning • Cybersecurity
 
 ---
 
