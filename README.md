@@ -20,10 +20,6 @@
 
 ## 🚀 About Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pic-gypsy&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
 I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
 
 - 🔐 Currently preparing for **CompTIA CySA+**
