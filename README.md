@@ -77,8 +77,9 @@ A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichme
 - MITRE ATT&CK Mapping
 - Risk Scoring
 - Automated Report Generation
+  
+  **Tech:** Python • Threat Intelligence • MITRE ATT&CK • MITRE OSINT  
 
-**Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
 ---
 
 ### 🛡️ File Integrity Monitor (https://github.com/pic-gypsy/File-integrity-monitor)
