@@ -8,15 +8,22 @@
   <img src="https://img.shields.io/github/stars/pic-gypsy?style=for-the-badge&color=8A2BE2" />
 </p>
 
+
+
 # 👋 Hi there, I'm Abhishek Dinesh
 
-### 🛡️ Aspiring pentester | Cybersecurity Enthusiast | Python Developer
+### 🛡️ Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Developer
 
 > *Learning by building. Securing by understanding.*
 
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pic-gypsy&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic-gypsy&layout=compact&theme=tokyonight" />
+</p>
 
 I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
 
