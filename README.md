@@ -21,8 +21,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pic-gypsy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic-gypsy&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=pic-gypsy&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
