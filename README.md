@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # 👋 Hi there, I'm Abhishek Dinesh
 
 ### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Developer
