@@ -76,17 +76,34 @@ A Python-based threat intelligence tool featuring:
 
 ---
 
+### 🛡️ File Integrity Monitor
+A lightweight Python-based File Integrity Monitoring (FIM) tool that detects unauthorized file modifications using SHA-256 hashing, real-time monitoring, and desktop notifications.
+
+**Tech:** Python • SHA-256 • File System Monitoring
+
+---
+
+### 🌐 IP Threat Hunter
+A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichment, MITRE ATT&CK mapping, risk scoring, and automated report generation.
+
+**Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
+
+---
+
 ### 🔑 Password Strength Checker
 
 A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
 
-### 🔑 Password Strength Checker
+---
 
-A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
+## 🔨 Upcoming Projects
 
-### 🔑 Password Strength Checker
-
-A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
+- 📋 SOC Log Analyzer
+- 🕵️ IOC Enrichment Tool
+- 🌐 Network Scanner
+- 📦 PCAP Analyzer
+- 🛡️ YARA Rule Scanner
+- 🔍 Web Vulnerability Scanner
 
 ---
 
