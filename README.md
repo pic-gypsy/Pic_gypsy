@@ -64,9 +64,11 @@ I'm passionate about cybersecurity, with a strong interest in **Blue Team operat
 
 ## 📂 Featured Projects
 
-### 🔍 Threat Intelligence Platform
+### 🌐 IP Threat Hunter
 
-A Python-based threat intelligence tool featuring:
+A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichment, MITRE ATT&CK mapping, risk scoring, and automated report generation.
+
+**featuring:**
 
 - IOC Analysis
 - IP Reputation Lookup
@@ -74,6 +76,7 @@ A Python-based threat intelligence tool featuring:
 - Risk Scoring
 - Automated Report Generation
 
+**Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
 ---
 
 ### 🛡️ File Integrity Monitor
@@ -83,12 +86,6 @@ A lightweight Python-based File Integrity Monitoring (FIM) tool that detects una
 
 ---
 
-### 🌐 IP Threat Hunter
-A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichment, MITRE ATT&CK mapping, risk scoring, and automated report generation.
-
-**Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
-
----
 
 ### 🔑 Password Strength Checker
 A Machine Learning-based password strength analyzer that evaluates passwords using entropy calculation, feature extraction, and Random Forest classification.
