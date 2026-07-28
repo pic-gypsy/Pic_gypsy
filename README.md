@@ -66,7 +66,7 @@ I'm passionate about cybersecurity, with a strong interest in **Blue Team operat
 
  **Building practical cybersecurity tools to learn, automate, and secure modern systems.**
 
-### 🌐 IP Threat Hunter
+### 🌐 IP Threat Hunter (https://github.com/pic-gypsy/ip-threat-hunter)
 
 A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichment, MITRE ATT&CK mapping, risk scoring, and automated report generation.
 
@@ -81,7 +81,7 @@ A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichme
 **Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
 ---
 
-### 🛡️ File Integrity Monitor
+### 🛡️ File Integrity Monitor (https://github.com/pic-gypsy/ip-threat-hunter)
 A lightweight Python-based File Integrity Monitoring (FIM) tool that detects unauthorized file modifications using SHA-256 hashing, real-time monitoring, and desktop notifications.
 
 **Tech:** Python • SHA-256 • File System Monitoring
@@ -89,7 +89,7 @@ A lightweight Python-based File Integrity Monitoring (FIM) tool that detects una
 ---
 
 
-### 🔑 Password Strength Checker
+### 🔑 Password Strength Checker (https://github.com/pic-gypsy/ip-threat-hunter)
 A Machine Learning-based password strength analyzer that evaluates passwords using entropy calculation, feature extraction, and Random Forest classification.
 
 **Tech:** Python • Scikit-learn • Machine Learning • Cybersecurity
