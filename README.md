@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
+I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Penetration Testing, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
 
 - 🔐 Currently preparing for **CompTIA CySA+**
 - 🖥️ Building cybersecurity tools using **Python**
