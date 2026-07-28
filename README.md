@@ -80,6 +80,14 @@ A Python-based threat intelligence tool featuring:
 
 A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
 
+### 🔑 Password Strength Checker
+
+A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
+
+### 🔑 Password Strength Checker
+
+A Machine Learning-based password strength analyzer built using Python and Scikit-learn.
+
 ---
 
 ## 📚 Currently Learning
@@ -103,13 +111,6 @@ A Machine Learning-based password strength analyzer built using Python and Sciki
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pic-gypsy&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pic-gypsy&layout=compact&theme=github_dark)
-
----
 
 ## 📫 Connect With Me
 
