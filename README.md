@@ -64,7 +64,7 @@ I'm passionate about cybersecurity, with a strong interest in **Blue Team operat
 
 ## 📂 Featured Projects
 
-> **Building practical cybersecurity tools to learn, automate, and secure modern systems.**
+ **Building practical cybersecurity tools to learn, automate, and secure modern systems.**
 
 ### 🌐 IP Threat Hunter
 
