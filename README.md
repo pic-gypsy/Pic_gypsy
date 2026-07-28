@@ -3,12 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pic-gypsy&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pic-gypsy&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/pic-gypsy?style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/pic-gypsy?style=for-the-badge&color=8A2BE2" />
 </p>
 
 # 👋 Hi there, I'm Abhishek Dinesh
 
-### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Developer
+### 🛡️ Aspiring pentester | Cybersecurity Enthusiast | Python Developer
 
 > *Learning by building. Securing by understanding.*
 
