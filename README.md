@@ -64,6 +64,8 @@ I'm passionate about cybersecurity, with a strong interest in **Blue Team operat
 
 ## 📂 Featured Projects
 
+> **Building practical cybersecurity tools to learn, automate, and secure modern systems.**
+
 ### 🌐 IP Threat Hunter
 
 A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichment, MITRE ATT&CK mapping, risk scoring, and automated report generation.
