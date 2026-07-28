@@ -89,7 +89,7 @@ A lightweight Python-based File Integrity Monitoring (FIM) tool that detects una
 ---
 
 
-### 🔑 Password Strength Checker (https://github.com/pic-gypsy/ip-threat-hunter)
+### 🔑 Password Strength Checker (https://github.com/pic-gypsy/password-strength-checker)
 A Machine Learning-based password strength analyzer that evaluates passwords using entropy calculation, feature extraction, and Random Forest classification.
 
 **Tech:** Python • Scikit-learn • Machine Learning • Cybersecurity
