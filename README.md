@@ -78,7 +78,7 @@ A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichme
 - Risk Scoring
 - Automated Report Generation
   
-  **Tech:** Python • Threat Intelligence • MITRE ATT&CK • MITRE OSINT  
+**Tech:** Python • Threat Intelligence • MITRE ATT&CK • MITRE OSINT  
 
 ---
 
