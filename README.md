@@ -21,8 +21,8 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pic-gypsy&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic-gypsy&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pic-gypsy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic-gypsy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 I'm passionate about cybersecurity, with a strong interest in **Blue Team operations, Threat Intelligence, Incident Response, and Security Automation**. I enjoy building practical tools in Python while continuously expanding my skills through hands-on labs and personal projects.
@@ -58,7 +58,6 @@ I'm passionate about cybersecurity, with a strong interest in **Blue Team operat
 - Nmap
 - Burp Suite
 - Splunk
-- Nessus
 - Metasploit
 - John the Ripper
 - Hydra
