@@ -81,7 +81,7 @@ A Python-powered Threat Intelligence tool for IP reputation lookup, IOC enrichme
 **Tech:** Python • Threat Intelligence • MITRE ATT&CK • OSINT
 ---
 
-### 🛡️ File Integrity Monitor (https://github.com/pic-gypsy/ip-threat-hunter)
+### 🛡️ File Integrity Monitor (https://github.com/pic-gypsy/File-integrity-monitor)
 A lightweight Python-based File Integrity Monitoring (FIM) tool that detects unauthorized file modifications using SHA-256 hashing, real-time monitoring, and desktop notifications.
 
 **Tech:** Python • SHA-256 • File System Monitoring
