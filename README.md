@@ -2,6 +2,10 @@
   <img src="images/Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pic-gypsy&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</p>
+
 # 👋 Hi there, I'm Abhishek Dinesh
 
 ### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Developer
