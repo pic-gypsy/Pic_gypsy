@@ -95,8 +95,6 @@ A Machine Learning-based password strength analyzer that evaluates passwords usi
 
 **Tech:** Python • Scikit-learn • Machine Learning • Cybersecurity
 
----
-
 
 ---
 
