@@ -104,7 +104,7 @@ A Machine Learning-based password strength analyzer that evaluates passwords usi
 - 🌐 Network Scanner
 - 📦 PCAP Analyzer
 - 🛡️ YARA Rule Scanner
-- 🔍 Web Vulnerability Scanner
+- 🔍 Web Vulnerability Scanner✅
 
 ---
 
