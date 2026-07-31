@@ -100,7 +100,7 @@ A Machine Learning-based password strength analyzer that evaluates passwords usi
 
 ---
 
-### 🛡️ Python Web Vulnerability Assessment Tool (https://github.com/pic-gypsy/File-integrity-monitor)
+### 🛡️ Python Web Vulnerability Assessment Tool (https://github.com/pic-gypsy/web-vulnerability-scanner)
 A lightweight Python-based Web Vulnerability Assessment Tool that combines passive security analysis with active vulnerability scanning using Wapiti. The tool automatically generates professional HTML and PDF reports for easy review and documentation.
 
 **Tech:** Python • Wapiti • Passive analysis • Web Vulnerability Assessment 
